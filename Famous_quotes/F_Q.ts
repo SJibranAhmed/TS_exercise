@@ -1,0 +1,1 @@
+let famous_quotes : string = 'Muhammad (P.B.U.H) says,\n"Our Action depend upon our Intention"'
