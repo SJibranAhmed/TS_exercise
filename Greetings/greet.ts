@@ -1,7 +1,6 @@
 let friends_name : any = ['Jibran', 'Hammad', 'Hassan', 'Sufyan']
 
-console.log(friends_name[0] + 'student of governer house I.T program')
-console.log(friends_name[1] + 'So hard work man ')
-console.log(friends_name[2] + 'So lazy man')
-console.log(friends_name[3] + 'My elder brother')
+for (var i = 0; i < friends_name.length; i++) {
+    console.log('Hello' + friends_name[i] + ' Have a nice day');
+  }
 
